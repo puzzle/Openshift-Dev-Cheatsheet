@@ -9,6 +9,9 @@ You can download the latest .png: https://raw.githubusercontent.com/puzzle/Opens
 
 or open the draw.io file directly using this link: https://www.draw.io/?splash=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuzzle%2FOpenshift-Dev-Cheatsheet%2Fmaster%2FOpenShiftDevCheatsheet.drawio
 
+## Roboto Font
+Damit die das draw.io file optimal dargestellt wird, solltest du die Roboto Font installiert haben: https://fonts.google.com/specimen/Roboto
+
 # Licence
 We published the cheatsheet with a CC-licence (Attribution-ShareAlike 4.0 International, CC BY-SA 4.0). You are free to use and change it, even for commercial purposes.
 
