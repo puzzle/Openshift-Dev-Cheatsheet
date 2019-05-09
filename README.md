@@ -2,6 +2,12 @@
 
 Our Cheatsheet for Openshift Developers. Only in German (for now).
 
+## Scope
+
+This intends to help developers when debugging an application or performing maintenance on it.
+
+What it does not try to do is helping with application setup on OpenShift and maintaining the configuration - there are many different approacheds to do that (kustomize, Ansible, Helm, ...).
+
 More commands will follow.
 
 # Use it
