@@ -5,7 +5,7 @@ Our Cheatsheet for Openshift Developers. Only in German (for now).
 More commands will follow.
 
 # Use it
-You can download the latest .png or download the draw.io file. Direct link to the draw.io file will follow asap.
+You can download the latest .png or open the draw.io file directly using this link: https://www.draw.io/?splash=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuzzle%2FOpenshift-Dev-Cheatsheet%2Fmaster%2FOpenShiftDevCheatsheet.drawio
 
 # Licence
 We published the cheatsheet with a CC-licence (Attribution-ShareAlike 4.0 International, CC BY-SA 4.0). You are free to use and change it, even for commercial purposes.
