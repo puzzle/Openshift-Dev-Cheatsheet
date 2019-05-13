@@ -18,10 +18,10 @@ or open the draw.io file directly using this link: https://www.draw.io/?splash=0
 ## Roboto Font
 If you want the draw.io file been displayed optimally, please install the Roboto Font: https://fonts.google.com/specimen/Roboto
 
+# Contribute!
+Any ideas or cheats that should be added to our cheatsheet? Great! Create an issue or make a pull-request with your draw.io file.
+
 # Licence
 We published the cheatsheet with a CC-licence (Attribution-ShareAlike 4.0 International, CC BY-SA 4.0). You are free to use and change it, even for commercial purposes.
 
 But if you change the cheatsheet itself, you have to publish your version of it with the same licence again and make it open source.
-
-# Contribute!
-Any ideas or cheats that should be added to our cheatsheet? Great! Create an issue or make a pull-request with your draw.io file.
